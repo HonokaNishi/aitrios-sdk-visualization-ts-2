@@ -40,7 +40,7 @@
   "customizations": {
     "codespaces": {
       "repositories": {
-        "SonySemiconductorSolutions/aitrios-sdk-console-access-lib-ts": {
+        "HonokaNishi/aitrios-sdk-console-access-lib-ts": {
           "permissions": {
             "contents": "read"
           }
